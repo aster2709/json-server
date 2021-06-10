@@ -2,6 +2,17 @@
     "tokens":[{
         "id":0,
         "description":"My NFT 0",
-        "image": "https://robohash.org/nft1.png?set=set4"
-    }]
+        "image": "https://robohash.org/nft1.png?set=set3"
+    },
+    {
+        "id":1,
+        "description":"My NFT 1",
+        "image": "https://robohash.org/nft2.png?set=set3"
+    },
+    {
+        "id":2,
+        "description":"My NFT 2",
+        "image": "https://robohash.org/nft3.png?set=set4"
+    }
+]
 }
