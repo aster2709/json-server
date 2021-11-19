@@ -17,6 +17,7 @@ function getRandomNumber(upperBound) {
 for (let i = 1; i <= 10; i++) {
   tokens.push({
     id: i,
+    name: `robo${i}`,
     description: `My NFT ${i}`,
     image: `https://robohash.org/nft${i}.png`,
     attributes: [
