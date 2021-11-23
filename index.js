@@ -1,5 +1,6 @@
 const shell = require("shelljs")
 const path = require("path")
+const metadata = require("./db.json")
 
 const tokens = []
 const skillAttributes = ["mana gain", "heal gain", "power gain", "speed gain"]
@@ -14,8 +15,8 @@ function getRandomNumber(upperBound) {
   return Math.floor(Math.random() * upperBound) + 1
 }
 
-for (let i = 1; i <= 10; i++) {
-  tokens.push({
+for (let i = 11; i <= 20; i++) {
+  metadata.tokens.push({
     id: i,
     name: `robo${i}`,
     description: `My NFT ${i}`,
@@ -60,4 +61,4 @@ for (let i = 1; i <= 10; i++) {
   })
 }
 
-shell.ShellString(JSON.stringify({ tokens }, null, 2)).to(path.resolve("db.json"))
+shell.ShellString(JSON.stringify({ metadata }, null, 2)).to(path.resolve("db.json"))
