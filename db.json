@@ -9,7 +9,7 @@
         {
           "type": "property",
           "name": "skill",
-          "value": "heal gain"
+          "value": "mana gain"
         },
         {
           "type": "property",
@@ -24,22 +24,22 @@
         {
           "type": "stat",
           "name": "ATK",
-          "value": 100
+          "value": 55
         },
         {
           "type": "stat",
           "name": "DEF",
-          "value": 96
+          "value": 3
         },
         {
           "type": "stat",
           "name": "HP",
-          "value": 4
+          "value": 15
         },
         {
           "type": "stat",
           "name": "skill value",
-          "value": 9
+          "value": 3
         }
       ]
     },
@@ -52,37 +52,37 @@
         {
           "type": "property",
           "name": "skill",
-          "value": "power gain"
+          "value": "heal gain"
         },
         {
           "type": "property",
           "name": "category",
-          "value": "assets"
+          "value": "weapons"
         },
         {
           "type": "property",
           "name": "hero class",
-          "value": "paladin"
+          "value": "ninja"
         },
         {
           "type": "stat",
           "name": "ATK",
-          "value": 9
+          "value": 78
         },
         {
           "type": "stat",
           "name": "DEF",
-          "value": 65
+          "value": 94
         },
         {
           "type": "stat",
           "name": "HP",
-          "value": 68
+          "value": 46
         },
         {
           "type": "stat",
           "name": "skill value",
-          "value": 6
+          "value": 7
         }
       ]
     },
@@ -95,12 +95,12 @@
         {
           "type": "property",
           "name": "skill",
-          "value": "heal gain"
+          "value": "power gain"
         },
         {
           "type": "property",
           "name": "category",
-          "value": "attire"
+          "value": "food"
         },
         {
           "type": "property",
@@ -110,22 +110,22 @@
         {
           "type": "stat",
           "name": "ATK",
-          "value": 95
+          "value": 68
         },
         {
           "type": "stat",
           "name": "DEF",
-          "value": 23
+          "value": 59
         },
         {
           "type": "stat",
           "name": "HP",
-          "value": 40
+          "value": 7
         },
         {
           "type": "stat",
           "name": "skill value",
-          "value": 2
+          "value": 4
         }
       ]
     },
@@ -143,27 +143,27 @@
         {
           "type": "property",
           "name": "category",
-          "value": "assets"
+          "value": "attire"
         },
         {
           "type": "property",
           "name": "hero class",
-          "value": "ninja"
+          "value": "astrologer"
         },
         {
           "type": "stat",
           "name": "ATK",
-          "value": 32
+          "value": 25
         },
         {
           "type": "stat",
           "name": "DEF",
-          "value": 83
+          "value": 53
         },
         {
           "type": "stat",
           "name": "HP",
-          "value": 92
+          "value": 82
         },
         {
           "type": "stat",
@@ -191,7 +191,179 @@
         {
           "type": "property",
           "name": "hero class",
+          "value": "dragoon"
+        },
+        {
+          "type": "stat",
+          "name": "ATK",
+          "value": 34
+        },
+        {
+          "type": "stat",
+          "name": "DEF",
+          "value": 78
+        },
+        {
+          "type": "stat",
+          "name": "HP",
+          "value": 50
+        },
+        {
+          "type": "stat",
+          "name": "skill value",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "robo6",
+      "description": "My NFT 6",
+      "image": "https://robohash.org/nft6.png",
+      "attributes": [
+        {
+          "type": "property",
+          "name": "skill",
+          "value": "speed gain"
+        },
+        {
+          "type": "property",
+          "name": "category",
+          "value": "food"
+        },
+        {
+          "type": "property",
+          "name": "hero class",
+          "value": "dragoon"
+        },
+        {
+          "type": "stat",
+          "name": "ATK",
+          "value": 11
+        },
+        {
+          "type": "stat",
+          "name": "DEF",
+          "value": 39
+        },
+        {
+          "type": "stat",
+          "name": "HP",
+          "value": 41
+        },
+        {
+          "type": "stat",
+          "name": "skill value",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "robo7",
+      "description": "My NFT 7",
+      "image": "https://robohash.org/nft7.png",
+      "attributes": [
+        {
+          "type": "property",
+          "name": "skill",
+          "value": "mana gain"
+        },
+        {
+          "type": "property",
+          "name": "category",
+          "value": "assets"
+        },
+        {
+          "type": "property",
+          "name": "hero class",
+          "value": "astrologer"
+        },
+        {
+          "type": "stat",
+          "name": "ATK",
+          "value": 29
+        },
+        {
+          "type": "stat",
+          "name": "DEF",
+          "value": 24
+        },
+        {
+          "type": "stat",
+          "name": "HP",
+          "value": 77
+        },
+        {
+          "type": "stat",
+          "name": "skill value",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "robo8",
+      "description": "My NFT 8",
+      "image": "https://robohash.org/nft8.png",
+      "attributes": [
+        {
+          "type": "property",
+          "name": "skill",
+          "value": "mana gain"
+        },
+        {
+          "type": "property",
+          "name": "category",
+          "value": "attire"
+        },
+        {
+          "type": "property",
+          "name": "hero class",
           "value": "ninja"
+        },
+        {
+          "type": "stat",
+          "name": "ATK",
+          "value": 17
+        },
+        {
+          "type": "stat",
+          "name": "DEF",
+          "value": 10
+        },
+        {
+          "type": "stat",
+          "name": "HP",
+          "value": 65
+        },
+        {
+          "type": "stat",
+          "name": "skill value",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "robo9",
+      "description": "My NFT 9",
+      "image": "https://robohash.org/nft9.png",
+      "attributes": [
+        {
+          "type": "property",
+          "name": "skill",
+          "value": "heal gain"
+        },
+        {
+          "type": "property",
+          "name": "category",
+          "value": "attire"
+        },
+        {
+          "type": "property",
+          "name": "hero class",
+          "value": "paladin"
         },
         {
           "type": "stat",
@@ -201,17 +373,60 @@
         {
           "type": "stat",
           "name": "DEF",
-          "value": 77
+          "value": 20
         },
         {
           "type": "stat",
           "name": "HP",
-          "value": 4
+          "value": 17
         },
         {
           "type": "stat",
           "name": "skill value",
-          "value": 6
+          "value": 9
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "robo10",
+      "description": "My NFT 10",
+      "image": "https://robohash.org/nft10.png",
+      "attributes": [
+        {
+          "type": "property",
+          "name": "skill",
+          "value": "speed gain"
+        },
+        {
+          "type": "property",
+          "name": "category",
+          "value": "food"
+        },
+        {
+          "type": "property",
+          "name": "hero class",
+          "value": "dragoon"
+        },
+        {
+          "type": "stat",
+          "name": "ATK",
+          "value": 46
+        },
+        {
+          "type": "stat",
+          "name": "DEF",
+          "value": 15
+        },
+        {
+          "type": "stat",
+          "name": "HP",
+          "value": 26
+        },
+        {
+          "type": "stat",
+          "name": "skill value",
+          "value": 2
         }
       ]
     }

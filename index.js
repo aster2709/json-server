@@ -14,7 +14,7 @@ function getRandomNumber(upperBound) {
   return Math.floor(Math.random() * upperBound) + 1
 }
 
-for (let i = 1; i <= 5; i++) {
+for (let i = 1; i <= 10; i++) {
   tokens.push({
     id: i,
     name: `robo${i}`,
